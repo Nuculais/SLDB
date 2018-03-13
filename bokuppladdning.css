@@ -1,0 +1,108 @@
+html{
+    height:100%;
+}
+body{
+    background-color: #F6B94F;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    height:100%;
+}
+h1 {
+    color: #AC4B6C;
+    text-align: center;
+    font-family: 'Calibri', sans-serif;
+}
+ul {
+    float: left;
+    list-style-type: none;
+    margin: 0;
+}
+.container{
+width: 400px;
+margin: 0 auto;
+margin-top: 10px;
+text-align: center;
+background-color: #F2BB66;
+}
+h3{
+font-family: courier;
+text-align: center;
+}
+label{
+font: 13px/100% Verdana;
+display: inline-block;
+padding-left: 10px;
+}
+#bokupp{
+border-style: solid;
+border-width: 3px;
+border-color: black;
+padding-bottom: 10px;
+}
+a:link {color:#AC4B6C; text-decoration: none}    /* unvisited link */
+a:visited {color:#AC4B6C; text-decoration: none} /* visited link */
+a:hover {color:#FFFFFF; text-decoration: none}   /* mouse over link */
+a:active {color:#FFFFFF; text-decoration: none}  /* selected link */
+input[type=submit]{
+cursor: pointer;
+width: auto;
+}
+
+/*------------/* 
+    Header 
+/*------------*/
+    #header {
+        min-width: 1000px;
+        min-height: 100px;
+        background-color: #FE9278;
+        text-align:center;
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }
+    #headerBox {
+        width: 90%;
+        margin: 0 auto 0 auto;
+    }
+    #header h1 {
+        float:left;
+        }
+    #LogIn, #LogOut{
+        height: 31px;
+        width:80px;
+        -moz-border-radius: 3px;
+        border-radius: 5px;
+        background: #FFFFFF;
+        border: 1px solid #d0cab5;
+        margin-left:5px;
+    }
+    #Register, #ProfilPage {
+        height: 31px;
+        width:80px;
+        -moz-border-radius: 3px;
+        border-radius: 5px;
+        background: #FFFFFF;
+        border: 1px solid #d0cab5;
+        margin-left:5px;
+    }
+    div.userControl {
+        float:right;
+        margin-top: 3.3%;
+    }
+    #username {
+        height: 27px;
+        -moz-border-radius: 3px;
+        border-radius: 5px;
+        padding-left:10px;
+        background: #FFFFFF;
+        border: 1px solid #d0cab5;
+        margin-left:5px;
+    }
+    #password {
+        height: 27px;
+        -moz-border-radius: 3px;
+        border-radius: 5px;
+        padding-left:10px;
+        background: #FFFFFF;
+        border: 1px solid #d0cab5;
+        margin-left:5px;
+    }

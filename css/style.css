@@ -1,0 +1,200 @@
+a:link {color:#AC4B6C; text-decoration: none}    /* unvisited link */
+a:visited {color:#AC4B6C; text-decoration: none} /* visited link */
+a:hover {color:#FFFFFF; text-decoration: none}   /* mouse over link */
+a:active {color:#FFFFFF; text-decoration: none}  /* selected link */
+#SearchBar:hover {border: #F6B94F 1px solid;}
+.Search:hover {border: #F6B94F 1px solid;}
+#Search:hover{
+	background: #F3F3ED;
+}
+
+body{
+	background: #F6B94F;
+	padding: 0px 0px 0px 0px;
+	margin: -22px 0px -22px 0px;
+}
+#header {
+	min-width: 1000px;
+	min-height: 100px;
+	background-color: #FE9278;
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+
+#headerBox {
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+#footer {
+	min-width: 500px;
+	background-color: #FE9278;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 0px;	
+}
+
+#footerBox {
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+#footerBox p {
+	font-size: 16px;
+}
+#header h1 {
+	float:left;
+}
+#menu .a {
+	color: #AC4B6C;
+}
+
+h1 {
+	font-size: 50px;
+	color: #FBDBB5;
+}
+.menu ul {
+display:inline;
+}
+
+#main {
+	min-height: 50px;
+	width: 90%;
+	margin: 50px auto 0 auto;
+}
+
+#LogIn{
+	height: 31px;
+	width:80px;
+	-moz-border-radius: 3px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+
+}
+#Register{
+	height: 31px;
+	width:80px;
+	-moz-border-radius: 3px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+    
+}
+#items{
+	padding-bottom: 5%;
+	padding-top: 5%;
+	margin-top:0px;
+	margin-bottom: 60px;
+	min-height:50px;
+	background-color: #F1D8C2;
+	text-align:center;
+	border-radius: 25px;
+	
+}
+
+
+#SearchBar {
+	width: 700px;
+    height: 70px;
+    -moz-border-radius: 3px;
+    border-radius: 10px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:15px;
+    font-size: 25px;
+}
+
+.Search {
+	height:70px;
+	min-width: 120px;
+	-moz-border-radius: 3px;
+    border-radius: 10px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:15px;
+    font-size: 25px;
+
+}
+
+
+#userLogin {
+	float:right;
+	margin-top: 3.3%;
+}
+
+#username {
+	height: 27px;
+	-moz-border-radius: 3px;
+    border-radius: 5px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+}
+
+#password {
+	height: 27px;
+	-moz-border-radius: 3px;
+    border-radius: 5px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+}
+
+.omslag {
+    width: 120px;
+    height: 180px;
+    background-color: black;
+}
+.recoBook {
+    min-width: 100px;
+    min-height: 200px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    float:left;
+    margin-left: 110px;
+    
+}
+
+.recoBook h3 {
+	margin-top: -0px;
+	margin-bottom: -20px;
+}
+
+.recoBook h4 {
+	margin-bottom: -20px;
+}
+
+#reks {
+	background-color: #FFFFFF;
+	margin: 55px auto 0 auto;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	width:85%;
+	min-height: 50px;
+	border-radius: 10px;
+}
+
+#row2 {
+
+}
+
+#row1 {
+	margin-bottom: 10px;
+}
+
+.stars {
+	width: 153px;
+	height: 22px;
+	background-image: url('../img/stars.png');
+	margin:0 auto 0 auto;
+}
+

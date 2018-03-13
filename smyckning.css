@@ -1,0 +1,189 @@
+
+body {
+background-color: #F6B94F;
+padding: 0px 0px 0px 0px;
+margin: -22px 0px -22px 0px;
+}
+
+div.texter {
+width: 450px;
+float: left;
+padding:50px;
+position: absolute;
+left: 25%;
+margin-right: -75%;
+background-color: #FBDBB5;
+border-radius: 25px;
+}
+
+div.container1 {
+width: 600px
+position: relative;
+float:left;
+border-radius: 25px;
+}
+
+h1 {
+color: #AC4B6C;
+text-align: center;
+font-family: 'Calibri', sans-serif;
+}
+
+h2 {
+color: #AC4B6C;
+text-align: center;
+font-family: 'Calibri', sans-serif;
+}
+
+p {
+font-family: 'Calibri', sans-serif;
+}
+
+a:hover {
+color: yellow;
+}
+a.menyknappar {
+    display: block;
+    width: 250px;
+	height: 80px;
+    background-color: #FE9278;
+	border-radius: 15px;
+	border: 2px solid #AC4B6C;
+	text-align: center;
+	vertical-align: center;
+	font-family: sans-serif;
+	font-size: 25px;
+	box-shadow: 7px 7px grey;
+	position: relative;
+	text-decoration: none;
+	
+}
+a.socialmedia {
+color: #AC4B6C;
+text-decoration: none;
+}
+a.tillbaka {
+color: #AC4B6C;
+text-decoration: none;
+text-align: center;
+float: center;
+}
+
+
+
+div.profil {
+padding: 100px;
+background-color: #FBDBB5;
+border-radius: 25px;
+width: 800px;
+height: 400px;
+margin: 0 auto 0 auto;
+}
+
+#personinfo {
+height: 400px;
+width:200px;
+float:left;
+background-color: white;
+border-radius: 10px;
+margin-right: 80px;
+}
+
+#bio {
+float: right;;
+width: 500px;
+height: 400px;
+background-color: white;
+border-radius: 10px;
+}
+
+#books {
+margin: 0 auto 0 auto;
+}
+#namn {
+margin-left: 20px;
+margin-right: 20px;
+}
+#foto {
+margin-left: 20px;
+}
+#laddauppfoto {
+margin-left: 20px;
+}
+ul {
+	float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 35px;
+}
+
+#header {
+    min-width: 1000px;
+    min-height: 100px;
+    background-color: #FE9278;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+ 
+#headerBox {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+ 
+#header h1 {
+    float:left;
+	}
+	
+a:link {color:#AC4B6C; text-decoration: none}    /* unvisited link */
+a:visited {color:#AC4B6C; text-decoration: none} /* visited link */
+a:hover {color:#FFFFFF; text-decoration: none}   /* mouse over link */
+a:active {color:#FFFFFF; text-decoration: none}  /* selected link */
+
+#LogIn{
+    height: 31px;
+    width:80px;
+    -moz-border-radius: 3px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+ 
+}
+#Register{
+    height: 31px;
+    width:80px;
+    -moz-border-radius: 3px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+}
+#userLogin {
+    float:right;
+    margin-top: 3.3%;
+}
+ 
+#username {
+    height: 27px;
+    -moz-border-radius: 3px;
+    border-radius: 5px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+}
+ 
+#password {
+    height: 27px;
+    -moz-border-radius: 3px;
+    border-radius: 5px;
+    padding-left:10px;
+    background: #FFFFFF;
+    border: 1px solid #d0cab5;
+    margin-left:5px;
+}
+
+
+
+
